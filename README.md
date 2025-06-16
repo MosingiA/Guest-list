@@ -22,8 +22,8 @@ This app allows users to add guests with categories, mark RSVP status, edit gues
 ## Technologies Used
 
 - HTML5 for structure
-- CSS3 for styling
-- Vanilla JavaScript (ES6) for DOM manipulation and functionality
+- CSS for styling
+- JavaScript for DOM manipulation and functionality
 
 ---
 
@@ -62,16 +62,10 @@ This app allows users to add guests with categories, mark RSVP status, edit gues
 
 ---
 
-## License
-
-This project is open source and free to use.
-
----
-
 ## Author
 
 Created by [Afya Mosingi]
 
 ---
 
-Enjoy managing your event guests!
+Enjoy managing your event guests.
